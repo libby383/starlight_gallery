@@ -1,0 +1,27 @@
+{
+	"audio" : true,
+	"contentrating" : "Everyone",
+	"description" : "星河画卷 · 4K 流动摄影墙\n精选摄影作品汇聚成一面缓缓流转的影像长廊；\n满天星辉微微闪烁，偶有流星划过夜空。\n主图随机入场特效：放大漫游、模糊渐清、马赛克、黑白褪色、湖面涟漪……\n\n── 特性 ──\n· 高清摄影作品，自动拼贴为流动照片墙\n· 满天星辉闪烁特效，温柔静谧的夜空氛围\n· 偶尔划过的流星，增添梦幻感\n· 主图随机入场动画（放大漫游 / 模糊渐清 / 马赛克 / 黑白 / 湖面涟漪等）\n· 4K 原生分辨率，适配超宽屏与多显示器\n· 控制面板可一键隐藏，主题色自由定义\n· 全部素材本地打包，无需联网\n· 内置音乐播放器（82首播放列表 / 音量控制）\n· 中央主图支持图片与视频混合轮播，可一键开启视频原声\n\n── EN ──\nStarry Canvas — a 4K live photo-wall wallpaper.\nGentle twinkling stars fill the screen with a dreamy night-sky atmosphere.\nOccasional shooting stars add magic to the scene.\nRandom entry effects on center image: zoom & pan, blur-to-focus, mosaic, B&W, water ripples, and more.\nEverything bundled locally — no network required.",
+	"file" : "index.html",
+	"general" :
+	{
+		"properties" :
+		{
+			"schemecolor" :
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.9176470588235294 0.396078431372549 0.9176470588235294"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Photographs", "Art", "Music" ],
+	"title" : "星河画卷 ｜ 4K 流动摄影墙 · 满天星辉版",
+	"type" : "web",
+	"version" : 3,
+	"visibility" : "public"
+}
